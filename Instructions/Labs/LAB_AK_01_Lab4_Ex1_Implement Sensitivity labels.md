@@ -13,7 +13,7 @@
 
     你仍应以 **adatum\administrator** 帐户的身份登录到 LON-CL1，并且在 Edge 浏览器中，你仍应以 **Holly Dickson** 身份登录到 Microsoft 365。 
 
-2. 在“Microsoft Edge”**** 中打开一个新标签页，然后在地址栏中输入（或复制粘贴）以下 URL：**https://www.microsoft.com/en-us/download/confirmation.aspx?id=53018** <br/>
+2. 在“Microsoft Edge”**** 中打开一个新标签页，然后在地址栏中输入（或复制粘贴）以下 URL：**https://www.microsoft.com/download/details.aspx?id=53018** <br/>
 
     此时将开始下载 **Microsoft Purview 信息保护客户端**。
 
