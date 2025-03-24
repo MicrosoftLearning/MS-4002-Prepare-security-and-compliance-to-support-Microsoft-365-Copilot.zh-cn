@@ -131,7 +131,7 @@ Adatum 的 Microsoft 365 管理员 Holly Dickson 最近了解到 Microsoft 365 �
 
 若要关闭此设置，必须在 Microsoft Intune 管理中心为 Office 应用创建策略。 在创建的策略中，将“**关闭发送到 Kindle**”设置添加到策略，然后启用此设置。 在策略中启用此设置可在完成策略创建后关闭“**发送到 Kindle**”功能。 此时，用户将无法再将 Word 文档发送到其 Kindle 库。
 
-**备注：** 应考虑在实际 Microsoft 365 部署中解决此问题。 有关此“**发送到 Kindle**”功能的详细信息，请参阅 https://support.microsoft.com/en-us/office/send-to-kindle-a53d880d-9952-4bf1-abc5-6bce8db5a273。
+**备注：** 应考虑在实际 Microsoft 365 部署中解决此问题。 有关此“**发送到 Kindle**”功能的详细信息，请参阅 https://support.microsoft.com/office/send-to-kindle-a53d880d-9952-4bf1-abc5-6bce8db5a273。
 
 1. 在 LON-CL1 上的 Edge 浏览器中，你仍以“Holly Dickson”身份登录到 Microsoft 365****。 
 
